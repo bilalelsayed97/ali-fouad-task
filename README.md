@@ -93,5 +93,14 @@
 └── main.dart
 ```
 
+![1](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/0387d158-c050-47fc-8406-0f5c7e97bda0)
+![2](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/2c3470ae-e69a-4abe-985e-7275cadb31e7)
+![3](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/33a9c55f-e5c2-4be7-96b9-0191ac9a0f7c)
+![4)](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/c43a75dc-97f9-486d-97f2-dcf459019042)
+![5](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/72d1f075-9cfb-40fb-b1c1-16ee43ef6999)
+![6](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/c3bd29c5-69b4-4ad1-be67-4f400f9d8341)
+![7](https://github.com/bilalelsayed97/ali-fouad-task/assets/133275598/72db330a-e92d-47cf-bf0e-c21a55e3e23d)
+
+
 - [LinkedIn](https://www.linkedin.com/in/bilalelsayed97)
 
